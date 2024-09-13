@@ -2,7 +2,7 @@ package io.foxcapades.kt.prop.delegation
 
 import kotlin.reflect.KProperty
 
-interface MutableDelegateProperty<T, A : T?> : MutableProperty<T>, DelegateProperty<T, T?> {
+interface MutableDelegateProperty<T, A : T?> : MutableProperty<T>, DelegateProperty<T, A> {
   /**
    * Enables the use of [MutableProperty] instances as mutable class property
    * delegates (`var`).
