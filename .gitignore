@@ -1,0 +1,11 @@
+.gradle/
+.idea/
+.kotlin/
+
+/build/
+/out/
+
+.env
+.envrc
+
+*.jar
