@@ -1,0 +1,39 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:io.foxcapades.kt.prop.delegation////PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/index.html
+$dokka.location:io.foxcapades.kt.prop.delegation//asIterable/io.foxcapades.kt.prop.delegation.Property[TypeParam(bounds=[kotlin.Any?])]#/PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/as-iterable.html
+$dokka.location:io.foxcapades.kt.prop.delegation//asIterator/io.foxcapades.kt.prop.delegation.Property[TypeParam(bounds=[kotlin.Any?])]#/PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/as-iterator.html
+$dokka.location:io.foxcapades.kt.prop.delegation//asSequence/io.foxcapades.kt.prop.delegation.Property[TypeParam(bounds=[kotlin.Any?])]#/PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/as-sequence.html
+$dokka.location:io.foxcapades.kt.prop.delegation//flatMap/io.foxcapades.kt.prop.delegation.Property[TypeParam(bounds=[kotlin.Any?])]#kotlin.Function1[TypeParam(bounds=[kotlin.Any?]),io.foxcapades.kt.prop.delegation.Property[TypeParam(bounds=[kotlin.Any?])]]/PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/flat-map.html
+$dokka.location:io.foxcapades.kt.prop.delegation//getOr/io.foxcapades.kt.prop.delegation.Property[TypeParam(bounds=[kotlin.Any?])]#TypeParam(bounds=[kotlin.Any?])/PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/get-or.html
+$dokka.location:io.foxcapades.kt.prop.delegation//getOrCompute/io.foxcapades.kt.prop.delegation.Property[TypeParam(bounds=[kotlin.Any?])]#kotlin.Function0[TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/get-or-compute.html
+$dokka.location:io.foxcapades.kt.prop.delegation//getOrDefault/io.foxcapades.kt.prop.delegation.DefaultableProperty[TypeParam(bounds=[kotlin.Any?])]#/PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/get-or-default.html
+$dokka.location:io.foxcapades.kt.prop.delegation//getOrDefaultOr/io.foxcapades.kt.prop.delegation.DefaultableProperty[TypeParam(bounds=[kotlin.Any?])]#TypeParam(bounds=[kotlin.Any?])/PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/get-or-default-or.html
+$dokka.location:io.foxcapades.kt.prop.delegation//getOrDefaultOrCompute/io.foxcapades.kt.prop.delegation.DefaultableProperty[TypeParam(bounds=[kotlin.Any?])]#kotlin.Function0[TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/get-or-default-or-compute.html
+$dokka.location:io.foxcapades.kt.prop.delegation//getOrDefaultOrNull/io.foxcapades.kt.prop.delegation.DefaultableProperty[TypeParam(bounds=[kotlin.Any?])]#/PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/get-or-default-or-null.html
+$dokka.location:io.foxcapades.kt.prop.delegation//getOrNull/io.foxcapades.kt.prop.delegation.Property[TypeParam(bounds=[kotlin.Any?])]#/PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/get-or-null.html
+$dokka.location:io.foxcapades.kt.prop.delegation//ifAbsent/io.foxcapades.kt.prop.delegation.Property[*]#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/if-absent.html
+$dokka.location:io.foxcapades.kt.prop.delegation//ifPresent/io.foxcapades.kt.prop.delegation.Property[TypeParam(bounds=[kotlin.Any?])]#kotlin.Function1[TypeParam(bounds=[kotlin.Any?]),kotlin.Unit]/PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/if-present.html
+$dokka.location:io.foxcapades.kt.prop.delegation//isEmpty/io.foxcapades.kt.prop.delegation.Property[TypeParam(bounds=[kotlin.Any?])]#/PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/is-empty.html
+$dokka.location:io.foxcapades.kt.prop.delegation//map/io.foxcapades.kt.prop.delegation.Property[TypeParam(bounds=[kotlin.Any?])]#kotlin.Function1[TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/map.html
+$dokka.location:io.foxcapades.kt.prop.delegation/DefaultableDelegateProperty///PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/-defaultable-delegate-property/index.html
+$dokka.location:io.foxcapades.kt.prop.delegation/DefaultableProperty///PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/-defaultable-property/index.html
+$dokka.location:io.foxcapades.kt.prop.delegation/DefaultableProperty/getDefault/#/PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/-defaultable-property/get-default.html
+$dokka.location:io.foxcapades.kt.prop.delegation/DefaultableProperty/hasDefault/#/PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/-defaultable-property/has-default.html
+$dokka.location:io.foxcapades.kt.prop.delegation/DelegateProperty///PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/-delegate-property/index.html
+$dokka.location:io.foxcapades.kt.prop.delegation/DelegateProperty/getValue/#kotlin.Any?#kotlin.reflect.KProperty[*]/PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/-delegate-property/get-value.html
+$dokka.location:io.foxcapades.kt.prop.delegation/MutableDefaultableDelegateProperty///PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/-mutable-defaultable-delegate-property/index.html
+$dokka.location:io.foxcapades.kt.prop.delegation/MutableDefaultableProperty///PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/-mutable-defaultable-property/index.html
+$dokka.location:io.foxcapades.kt.prop.delegation/MutableDelegateProperty///PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/-mutable-delegate-property/index.html
+$dokka.location:io.foxcapades.kt.prop.delegation/MutableDelegateProperty/setValue/#kotlin.Any?#kotlin.reflect.KProperty[*]#TypeParam(bounds=[TypeParam(bounds=[kotlin.Any?])?])/PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/-mutable-delegate-property/set-value.html
+$dokka.location:io.foxcapades.kt.prop.delegation/MutableProperty///PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/-mutable-property/index.html
+$dokka.location:io.foxcapades.kt.prop.delegation/MutableProperty/set/#TypeParam(bounds=[kotlin.Any?])/PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/-mutable-property/set.html
+$dokka.location:io.foxcapades.kt.prop.delegation/MutableProperty/unset/#/PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/-mutable-property/unset.html
+$dokka.location:io.foxcapades.kt.prop.delegation/NoSuchValueException///PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/-no-such-value-exception/index.html
+$dokka.location:io.foxcapades.kt.prop.delegation/NoSuchValueException/NoSuchValueException/#/PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/-no-such-value-exception/-no-such-value-exception.html
+$dokka.location:io.foxcapades.kt.prop.delegation/NoSuchValueException/NoSuchValueException/#kotlin.String/PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/-no-such-value-exception/-no-such-value-exception.html
+$dokka.location:io.foxcapades.kt.prop.delegation/Property///PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/-property/index.html
+$dokka.location:io.foxcapades.kt.prop.delegation/Property/get/#/PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/-property/get.html
+$dokka.location:io.foxcapades.kt.prop.delegation/Property/isSet/#/PointingToDeclaration/property-delegation/io.foxcapades.kt.prop.delegation/-property/is-set.html
+io.foxcapades.kt.prop.delegation
+

@@ -31,20 +31,4 @@ interface DefaultableProperty<T> : Property<T> {
    */
   @Throws(NoSuchValueException::class)
   fun getDefault(): T
-
-  /**
-   * Returns either the current value of this `DefaultableProperty`, if one is
-   * set, or the default value, if one is set.
-   *
-   * If neither a value nor a default value have been set on this
-   * `DefaultableProperty`, this method will throw an exception.
-   *
-   * @return Either the value of this property, or its default fallback value.
-   *
-   * @throws NoSuchValueException If neither a value nor default value are set
-   * on this `DefaultableProperty`.
-   */
-  @Throws(NoSuchValueException::class)
-  fun getOrDefault(): T = if (!isSet && hasDefault) getDefault() else get()
 }
-

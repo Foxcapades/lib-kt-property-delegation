@@ -32,16 +32,4 @@ interface Property<T> {
    */
   @Throws(NoSuchValueException::class)
   fun get(): T
-
-  /**
-   * Returns the value contained in this [Property] instance, if one is set.
-   *
-   * If no value is currently set on this `Property`, this method will return
-   * `null`.
-   *
-   * @return The value set for this property.
-   */
-  fun getOrNull(): T?
 }
-
-
